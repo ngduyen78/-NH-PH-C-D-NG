@@ -1,0 +1,6 @@
+{
+  "name": "Những Gương Mặt Bất Tử - Phục Dựng Di Ảnh",
+  "description": "Nền tảng phục dựng di ảnh liệt sĩ, người có công và ảnh xưa bằng công nghệ AI. Thắp sáng ký ức, sáng mãi tên anh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
